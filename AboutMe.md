@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente trabalho com treinamento de IA na TELUS INT.
-- 📚 Estudante de Ciências da Computação.
-- 🌱 Aprendendo Python🐍
+- 📚 Formado em Ciências da Computação.
+- 🌱 Sempre aprendendo novas habilidades  
 - 📫 Contato: nathanandradecampos@gmail.com
 
 
